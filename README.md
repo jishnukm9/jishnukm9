@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [blog](blog)
 
-- 💬 Ask me about **Python, Django, Flask, Html, Css, Javascript, Bootstrap**
+- 💬 Ask me about **Python, Django, Flask,React, Html, Css, Javascript, Bootstrap**
 
 - 📫 How to reach me **jishnukm2010@gmail.com**
 
