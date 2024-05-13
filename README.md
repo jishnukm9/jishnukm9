@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [jishnukm9.github.io](jishnukm9.github.io)
+- 👨‍💻 All of my projects are available at [https://jishnukm9.github.io/portfolio/](https://jishnukm9.github.io/portfolio/)
 
 - 📝 I regularly write articles on [blog](blog)
 
