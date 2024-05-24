@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jishnukm9.github.io/portfolio/](https://jishnukm9.github.io/portfolio/)
 
-- 📝 I regularly write articles on [blog](https://medium.com/@jishnukm2010)
+- 📝 I have started writing article on [blog](https://medium.com/@jishnukm2010)
 
 - 💬 Ask me about **Python, Django, Flask,React, Html, Css, Javascript, Bootstrap**
 
