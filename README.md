@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnukm9&label=Profile%20views&color=0e75b6&style=flat" alt="jishnukm9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jishnu_km9" target="blank"><img src="https://img.shields.io/twitter/follow/jishnukkrishna?logo=twitter&style=for-the-badge" alt="jishnu_km9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jishnu_km9" target="blank"><img src="https://img.shields.io/twitter/follow/jishnu_km9?logo=twitter&style=for-the-badge" alt="jishnu_km9" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
