@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jishnu</h1>
 <h3 align="center">👋 Hey! I'm Jishnu, a full-stack developer specializing in Python. I love building web apps that are easy to use, scalable, and secure. I'm passionate about using and learning different technologies and frameworks to solve real problems with code. Join me in creating awesome projects!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnukm9&label=Profile%20views&color=0e75b6&style=flat" alt="jishnukm9" /> </p>
+
 
 
 
