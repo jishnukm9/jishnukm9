@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jishnukm2010@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume]([JISHNU KM (2).pdf](https://github.com/user-attachments/files/16571635/JISHNU.KM.2.pdf)
 
 - ⚡ Fun fact **I sometimes talk to my code and ask it to work. 🙏**
 
